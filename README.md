@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @williamdiffey
+- 👀 I specialise in educational websites and apps built with react, react native next.js and node with apollo
+- 🌱 I’m currently learning django
+- 💞️ I’m looking to collaborate on anything exciting
+- 📫 reach me at william d o t diffey a t gmail d o t com
